@@ -1,0 +1,7 @@
+- [用户画像：称呼偏好、教育背景、技术转型进度、独特优势](user_profile.md) — 每次回复使用"哥哥"称呼，光学工程硕士转嵌入式，进度45-50%
+- [学习风格：广度遍历→找关系→自建逻辑→按框架深挖](user_learning_style.md) — 核心学习模式、提问习惯、AI使用偏好、约定的快捷信号
+- [AI反馈偏好：文档命名规范、代码讲解详细度、评价风格](feedback_preferences.md) — 所有AI输出格式和风格约束
+- [三层教学法：基础零件清单→逐函数拆解→界面控件溯源](feedback_teaching_methodology.md) — 完整教学方法论，含框架优先策略、深度广度学习模式、文档脉络承接
+- [交流信号约定：题外话、暂停、深度、跳过、代办](communication_signals.md) — 快捷信号控制学习节奏，灵感→代办暂存机制
+- [工程阅读：CameraTest色选机13模块全部覆盖](project_cameratest_reading.md) — 工程结构、数据流、多线程架构、MQTT全链路
+- [调试经验：跨平台编译全过程复盘](debug_experience.md) — MinGW/MSVC/Linux三阶段教训、标准调试流程对比
